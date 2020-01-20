@@ -1,5 +1,6 @@
-main {
-    background-color: #e3e3e3;
+body {
+  margin: 0;
+  background-color: #e3d3c3;
 }
 
 #top {
@@ -19,12 +20,14 @@ main {
     font-size: 7vw;
     margin-right: 45%;
     margin-bottom: 10%;
+    text-shadow: 1px 1px black;
   }
   
   h3 {
     font-size: 5vw;
     margin-left: 55%;
     margin-bottom: 10%;
+    text-shadow: 1px 1px black;
   }
   #form-container {
     display: flex;
