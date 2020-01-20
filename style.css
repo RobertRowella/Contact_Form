@@ -1,0 +1,123 @@
+main {
+    background-color: #e3e3e3;
+}
+
+#top {
+    background-color: #e3d3c3;
+    background-image: url("https://i.postimg.cc/yNvGs4fT/45-AF852-E-CF9-E-4138-8-EAE-F6-CC2-ED2149-F.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: #3a8888;
+    font-family: "Fredoka One", cursive;
+    text-align: center;
+    border-radius: 10px;
+  }
+  h1 {
+    font-size: 7vw;
+    margin-right: 45%;
+    margin-bottom: 10%;
+  }
+  
+  h3 {
+    font-size: 5vw;
+    margin-left: 55%;
+    margin-bottom: 10%;
+  }
+  #form-container {
+    display: flex;
+    background-color: #e3d3c3;
+    color: #3a8888;
+  }
+  
+  #description {
+    font-size: 2vw;
+    font-family: helvetica;
+    text-align: center;
+    margin-top: 100px;
+    flex-shrink: 3;
+    padding-right: 4vw;
+    position: relative;
+    width: 50%;
+  }
+  
+  #form {
+    font-size: 2vw;
+    font-family: helvetica;
+    flex-shrink: 1;
+    padding-right: 4vw;
+    margin-right: 3vw;
+  }
+  input[type=text] {
+    width: 100%;
+    padding: 5px 20px;
+    margin: 2px 2px;
+    border: none;
+    border-bottom: 2px solid  #3a8888;
+    background-color: #e3d3c3;
+    font-size: 20px;
+    text-align: center;
+  }
+  input[type=email] {
+    width: 100%;
+    padding: 5px 20px;
+    margin: 2px 2px;
+    border: none;
+    border-bottom: 2px solid #3a8888;
+    background-color: #e3d3c3;
+    font-size: 20px;
+    text-align: center;
+  }
+  input[type=tel] {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 4px 4px;
+    border: none;
+    border-bottom: 2px solid  #3a8888;
+    background-color: #e3d3c3;
+    font-size: 20px;
+    text-align: center;
+  }
+  input[type=radio] {
+    width: 5%;
+    font-size: 20px;
+    
+  }
+  
+  
+  select {
+    width: 113%;
+    font-family: helvetica;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 4px 4px;
+    border: none;
+   }
+  
+  textarea {
+    width: 100%;
+    font-family: helvetica;
+    font-size: 20px;
+    padding: 20px 20px;
+    margin: 10px 5px;
+    border: none;
+    border-bottom: 2px solid #3a8888;
+    background-color: #e3d3c3; 
+    text-align: center;
+    color: gray;
+  }
+  
+  button {
+    background-color: #3a8888;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+  }
