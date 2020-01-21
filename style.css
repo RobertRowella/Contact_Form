@@ -14,20 +14,20 @@ body {
     color: #3a8888;
     font-family: "Fredoka One", cursive;
     text-align: center;
-    border-radius: 10px;
+  
   }
   h1 {
     font-size: 7vw;
     margin-right: 45%;
     margin-bottom: 10%;
-    text-shadow: 1px 1px black;
+    text-shadow: 2px 2px gray;
   }
   
   h3 {
     font-size: 5vw;
     margin-left: 55%;
     margin-bottom: 10%;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px gray;
   }
   #form-container {
     display: flex;
@@ -84,8 +84,7 @@ body {
     text-align: center;
   }
   input[type=radio] {
-    width: 5%;
-    font-size: 20px;
+    font-size: 25px;
     
   }
   
